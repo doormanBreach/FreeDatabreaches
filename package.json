@@ -1,0 +1,12 @@
+{
+  "name": "historical-data-breaches-archive",
+  "version": "1.0.0",
+  "description": "An interactive web dashboard to browse and analyze historical data breaches.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8080"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
